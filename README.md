@@ -3,4 +3,5 @@
 _This text is italic_\
 1.A\
 2.B\
-3.C
+3.C\
+~~oops~~
